@@ -20,7 +20,7 @@ The project is organized into five distinct parts, each focusing on a specific a
     * Basic CRUD (Create, Read, Update, Delete) operations on a list.
 
 **Execution Screenshot:**
-![Part 1 Execution](Screenshots/screenshot_1.png)
+![Part 1 Execution](screenshots/screenshot_1.png)
 
 ---
 
@@ -36,7 +36,7 @@ The project is organized into five distinct parts, each focusing on a specific a
     * Iterating through map entries using `forEach()`.
 
 **Execution Screenshot:**
-![Part 2 Execution](Screenshots/screenshot_2.png)
+![Part 2 Execution](screenshots/screenshot_2.png)
 
 ---
 
@@ -50,7 +50,7 @@ The project is organized into five distinct parts, each focusing on a specific a
     * **Union:** Uses `addAll()` to combine students from both groups while automatically handling duplicates.
 
 **Execution Screenshot:**
-![Part 3 Execution](Screenshots/screenshot_3.png)
+![Part 3 Execution](screenshots/screenshot_3.png)
 
 ---
 
@@ -65,7 +65,7 @@ The project is organized into five distinct parts, each focusing on a specific a
     * Generic methods for adding, retrieving, and removing elements.
 
 **Execution Screenshot:**
-![Part 4 Execution](Screenshots/screenshot_4.png)
+![Part 4 Execution](screenshots/screenshot_4.png)
 
 ---
 
@@ -82,12 +82,12 @@ The project is organized into five distinct parts, each focusing on a specific a
     * Advanced search and deletion logic by object ID.
 
 **Execution Screenshot:**
-![Part 5 Execution](Screenshots/screenshot_5_1.png)
+![Part 5 Execution](screenshots/screenshot_5_1.png)
 ---
-![Part 5 Execution](Screenshots/screenshot_5_2.png)
+![Part 5 Execution](screenshots/screenshot_5_2.png)
 ---
-![Part 5 Execution](Screenshots/screenshot_5_3.png)
+![Part 5 Execution](screenshots/screenshot_5_3.png)
 ---
-![Part 5 Execution](Screenshots/screenshot_5_4.png)
+![Part 5 Execution](screenshots/screenshot_5_4.png)
 ---
-![Part 5 Execution](Screenshots/screenshot_5_5.png)
+![Part 5 Execution](screenshots/screenshot_5_5.png)
